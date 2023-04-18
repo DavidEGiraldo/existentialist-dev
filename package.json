@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/DavidEGiraldo/existentialist-dev#readme",
   "bin": {
-    "existencialist-dev": "./bin/global.js"
+    "existentialist-dev": "./bin/global.js"
   },
   "preferGlobal": true
 }
