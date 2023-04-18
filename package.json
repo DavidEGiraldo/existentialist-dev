@@ -1,0 +1,17 @@
+{
+  "name": "existentialist-dev",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Random existentialist messages for devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Giraldo <degiraldod@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "existencialist-dev": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
